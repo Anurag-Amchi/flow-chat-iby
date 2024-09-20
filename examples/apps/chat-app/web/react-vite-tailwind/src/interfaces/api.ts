@@ -1,4 +1,4 @@
-export interface FreeAPISuccessResponseInterface {
+export interface FlowChatSuccessResponseInterface {
   data: any;
   message: string;
   statusCode: number;
