@@ -10,7 +10,7 @@
 ## Author
 
 **Name**: Anurag Amchi  
-**Department**: Mathematics and Computing
+**Department**: Mathematics and Computing      
 **University**: Indian Institute of Technology Ropar
 
 ## Table of Contents
