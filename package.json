@@ -21,12 +21,12 @@
     "public apis",
     "kitchen sink"
   ],
-  "author": "Hitesh Choudhary",
+  "author": "Anurag Amchi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hiteshchoudhary/apihub/issues"
+    "url": "https://github.com/anurag-amchi/apihubflow-chat-iby/issues"
   },
-  "homepage": "https://github.com/hiteshchoudhary/apihub#readme",
+  "homepage": "https://github.com/anurag-amchi/apihub#readme",
   "dependencies": {
     "@faker-js/faker": "^8.0.2",
     "bcrypt": "^5.1.0",
@@ -70,7 +70,7 @@
     "jest": "^29.7.0",
     "lint-staged": "^13.2.2",
     "mongodb-memory-server": "^9.1.6",
-    "nodemon": "^2.0.22",
+    "nodemon": "^3.1.7",
     "prettier": "^3.0.0",
     "supertest": "^6.3.4",
     "supertest-session": "^5.0.1"
