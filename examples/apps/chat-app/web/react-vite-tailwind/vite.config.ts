@@ -8,7 +8,7 @@ dns.setDefaultResultOrder("verbatim");
 export default defineConfig({
   plugins: [react()],
   server: {
-    host: "https://flow-chat-iby-frontend.vercel.app",
+    host: "localhost",
     port: 3000,
   },
 });

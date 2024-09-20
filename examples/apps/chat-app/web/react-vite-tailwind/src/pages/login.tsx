@@ -4,6 +4,7 @@ import { useState } from "react";
 import Button from "../components/Button";
 import Input from "../components/Input";
 import { useAuth } from "../context/AuthContext";
+import logo from "../logo/flowchat.svg";
 
 // Component for the Login page
 const Login = () => {
@@ -30,6 +31,7 @@ const Login = () => {
 
   return (
     <div className="flex justify-center items-center flex-col h-screen w-screen">
+      <img src = {logo} className="h-14 mb-4"/>
       <h1 className="text-3xl font-bold">Flow Chat App</h1>
       <div className="max-w-5xl w-1/2 p-8 flex justify-center items-center gap-5 flex-col bg-dark shadow-md rounded-2xl my-16 border-secondary border-[1px]">
         <h1 className="inline-flex items-center text-2xl mb-4 flex-col">

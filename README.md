@@ -18,6 +18,7 @@
 <img src = "./flowchat-images/3.png" align = "center"/>
 <img src = "./flowchat-images/4.png" align = "center"/>
 <img src = "./flowchat-images/5.png" align = "center"/>
+<img src = "./flowchat-images/6.png" align = "center"/>
 
 ## Table of Contents
 1. [Overview](#overview)
