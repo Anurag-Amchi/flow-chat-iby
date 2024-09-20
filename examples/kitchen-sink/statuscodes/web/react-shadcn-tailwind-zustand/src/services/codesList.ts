@@ -9,7 +9,7 @@ async function processCodes(): Promise<StatusListType> {
   const HTTPStatusCodesList: StatusListType = {};
   try {
     const result = await fetch(
-      "https://api.freeapi.app/api/v1/kitchen-sink/status-codes"
+      "https://api.flowchat.app/api/v1/kitchen-sink/status-codes"
     ).then((res) => res.json());
     const codes: codesType = result.data;
     for (const key in codes) {

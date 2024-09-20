@@ -12,8 +12,8 @@ const sendEmail = async (options) => {
   const mailGenerator = new Mailgen({
     theme: "default",
     product: {
-      name: "FreeAPI",
-      link: "https://freeapi.app",
+      name: "FlowChat",
+      link: "https://flowchat.app",
     },
   });
 
@@ -35,7 +35,7 @@ const sendEmail = async (options) => {
   });
 
   const mail = {
-    from: "mail.freeapi@gmail.com", // We can name this anything. The mail will go to your Mailtrap inbox
+    from: "mail.flowchat@gmail.com", // We can name this anything. The mail will go to your Mailtrap inbox
     to: options.email, // receiver's mail
     subject: options.subject, // mail subject
     text: emailTextual, // mailgen content textual variant

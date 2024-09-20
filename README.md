@@ -162,7 +162,7 @@ const messageSchema = new mongoose.Schema({
    REFRESH_TOKEN_SECRET=Enter your secret key
    REFRESH_TOKEN_EXPIRY=10d
    CORS_ORIGIN=http://localhost:3000
-   FREEAPI_HOST_URL=http://localhost:8080
+   FLOWCHAT_HOST_URL=http://localhost:8080
 
    MAILTRAP_SMTP_HOST=_mailtrap_smtp_host_
    MAILTRAP_SMTP_PORT=_mailtrap_smtp_port_
