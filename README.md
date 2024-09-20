@@ -12,6 +12,12 @@
 **Name**: Anurag Amchi  
 **Department**: Mathematics and Computing      
 **University**: Indian Institute of Technology Ropar
+## Snapshots
+
+<img src = "./flowchat-images/2.png" align = "center"/>
+<img src = "./flowchat-images/3.png" align = "center"/>
+<img src = "./flowchat-images/4.png" align = "center"/>
+<img src = "./flowchat-images/5.png" align = "center"/>
 
 ## Table of Contents
 1. [Overview](#overview)
