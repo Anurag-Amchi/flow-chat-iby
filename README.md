@@ -3,7 +3,7 @@
 
 **Version**: 1.0.0
 
-**Live Link**: https://flow-chat-iby-frontend.vercel.app/login
+**Live Link**: https://flow-chat-app.vercel.app
 
 **Description**: FlowChat is a real-time chat web application that provides a platform for users to send real-time messages to each other. The application includes user authentication, private messaging, message history, and real-time communication through WebSockets.
 
